@@ -6,7 +6,7 @@
 
 1. Clone the repo
    ```sh
-   git clone [https://github.com/your_username_/Project-Name.git](https://github.com/Adrianna40/psychopyExperiment.git)
+   git clone https://github.com/Adrianna40/psychopyExperiment.git
    ```
 2. Set up directory 
    ```sh
